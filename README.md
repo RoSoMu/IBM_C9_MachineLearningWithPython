@@ -1,27 +1,27 @@
 # Machine Learning With Python
 IBM Professional Certificate in Data Science Course 9: 20 x Labs 
 ## Module 2
- * Course9_M2_L1: Complete the Data Collection API Lab
- * Course9_M2_L2: Complete the Data Collection with WebScraping Lab
- * Course9_M2_L3: Data Wrangling Lab
+ * Course9_M2_L1: Simple Linear Regression
+ * Course9_M2_L2: Mutiple Linear Regression
+ * Course9_M2_L3: Logistic Regression
 ## Module 3
- * Course9_M3_L1: Exploratory Data Analysis with SQL Lab
- * Course9_M3_L2:
- * Course9_M3_L3:
- * Course9_M3_L4:
- * Course9_M3_L5:
- * Course9_M3_L6: Exploratroy Data Analysis with Pandas and Matplotlib Lab
+ * Course9_M3_L1: Multi-class Classification
+ * Course9_M3_L2: Decision Trees
+ * Course9_M3_L3: Regression Trees
+ * Course9_M3_L4: Credit Card Fraud Detection with Decision Trees and SVM
+ * Course9_M3_L5: K-Nearest Neighbors Classifier
+ * Course9_M3_L6: Random Forest and XGBoost
 ## Module 4
- * Course9_M2_L1: Interactive Visual Analytics with Folium Lab
- * Course9_M2_L2:
- * Course9_M2_L3:
- * Course9_M2_L4:Interactive Dashboard with Plotly Lab
+ * Course9_M2_L1: K-means
+ * Course9_M2_L2: Comparing DBSCAN and HDBSCAN
+ * Course9_M2_L3: Applications of Principal Component Analysis
+ * Course9_M2_L4: t-SNE and UMAP
 ## Module 5
- * Course9_M5_L1: Complete the Machine Learning Prediction Lab (Decision Tree max_features: "Log2")
- * Course9_M5_L2:
- * Course9_M5_L3:
- * Course9_M5_L4:
- * Course9_M5_L5: Complete the Machine Learning Prediction Lab (original Decision Tree max_features: "Auto", preditct_proba threshold changes, extra plots)
+ * Course9_M5_L1: Evaluating Classification Models
+ * Course9_M5_L2: Evaluating Random Forest Performance
+ * Course9_M5_L3: Evaluation K-means Clustering 
+ * Course9_M5_L4: Regularization in Linear Regression
+ * Course9_M5_L5: Machine Learning Pipelines and GridSearchCV
 ## Module 6
- * Course9_M6_L1:
- * Course9_M6_L2:
+ * Course9_M6_L1: Practice Project - Titanic Survival Prediction
+ * Course9_M6_L2: Final Project - Building a Rainfall Prediction Classifier
