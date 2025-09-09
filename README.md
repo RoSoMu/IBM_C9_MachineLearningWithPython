@@ -18,6 +18,7 @@ IBM Professional Certificate in Data Science Course 9: 20 x Labs + 3 x Screensho
  * C9M4L2_screenshot_museums_HDBSCAN
  * Course9_M4_L3: Applications of Principal Component Analysis
  * Course9_M4_L4: t-SNE and UMAP
+ * C9M4L4_screenshot_tSNE_UMAP_blobs_interactiveplot
 ## Module 5
  * Course9_M5_L1: Evaluating Classification Models
  * Course9_M5_L2: Evaluating Random Forest Performance
