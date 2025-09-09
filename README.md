@@ -1,5 +1,5 @@
 # Machine Learning With Python
-IBM Professional Certificate in Data Science Course 9: 20 x Labs 
+IBM Professional Certificate in Data Science Course 9: 20 x Labs + 3 x Screenshots
 ## Module 2
  * Course9_M2_L1: Simple Linear Regression
  * Course9_M2_L2: Mutiple Linear Regression
@@ -12,10 +12,12 @@ IBM Professional Certificate in Data Science Course 9: 20 x Labs
  * Course9_M3_L5: K-Nearest Neighbors Classifier
  * Course9_M3_L6: Random Forest and XGBoost
 ## Module 4
- * Course9_M2_L1: K-means
- * Course9_M2_L2: Comparing DBSCAN and HDBSCAN
- * Course9_M2_L3: Applications of Principal Component Analysis
- * Course9_M2_L4: t-SNE and UMAP
+ * Course9_M4_L1: K-means
+ * Course9_M4_L2: Comparing DBSCAN and HDBSCAN
+ * C9M4L2_screenshot_museums_DBSCAN
+ * C9M4L2_screenshot_museums_HDBSCAN
+ * Course9_M4_L3: Applications of Principal Component Analysis
+ * Course9_M4_L4: t-SNE and UMAP
 ## Module 5
  * Course9_M5_L1: Evaluating Classification Models
  * Course9_M5_L2: Evaluating Random Forest Performance
